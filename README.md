@@ -9,5 +9,5 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-my project:(https://tinyurl.com/ybvev9pd)
+my project:
 (https://tinyurl.com/ybvev9pd)
